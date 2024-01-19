@@ -10,7 +10,7 @@
 - change username and password in /database/config/config.
 ## Run mySql on the xammp
 ## Cmd
-> Run following command in cmd(in squencial manner)
+> Run following command in cmd(in sequential manner)
 - npm install
 - npx sequelize-cli db:create
 - npx sequelize-cli db:migrate
