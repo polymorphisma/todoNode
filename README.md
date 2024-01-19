@@ -9,7 +9,7 @@
 ## Database setup
 - change username and password in /database/config/config.
 ## Run mySql on the xammp
-##Cmd
+## Cmd
 > Run following command in cmd(in squencial manner)
 - npm install
 - npx sequelize-cli db:create
